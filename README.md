@@ -1,5 +1,7 @@
 # QR Code Generator
 
+[![GitHub](https://img.shields.io/badge/GitHub-qr--code--generator--nodejs-blue?style=flat&logo=github)](https://github.com/Abhimanyu668/QR-Code-Generator-Node.js)
+
 **QR Code Generator** is a Node.js application that allows you to generate QR codes from URLs. This project leverages the `inquirer` package for user input and the `qr-image` package to create QR code images in PNG format. You can use this tool to quickly generate QR codes for various purposes, such as sharing URLs, contact information, or product details.
 
 ## Table of Contents
@@ -29,7 +31,7 @@ Before you can use the QR Code Generator, you need to have Node.js and a couple 
 
    
     ```bash
-    cd repository-name
+    cd QR-Code-Generator-Node.js
 
 3. **Initialize NPM.**:
 
